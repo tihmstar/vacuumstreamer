@@ -1,4 +1,7 @@
-
+/*
+Author: tihmstar <tihmstar(at)gmail.com>
+With support of: dgiese <dennis(at)dontvacuum.me>
+*/
 #include <stdio.h>
 #include <assert.h>
 #include <stdint.h>
