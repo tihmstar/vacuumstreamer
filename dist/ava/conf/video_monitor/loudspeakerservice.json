@@ -1,0 +1,7 @@
+{
+  "samplerate": 16000,
+  "channelnum": 1,
+  "pcmframes": 640,
+  "pcmformat": 16,
+  "servicename": "default:0"
+}

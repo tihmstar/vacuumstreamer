@@ -1,0 +1,7 @@
+{
+  "samplerate": 16000,
+  "channelnum": 2,
+  "pcmframes": 32,
+  "pcmformat": 16,
+  "servicename": "hw:snddaudio0"
+}
