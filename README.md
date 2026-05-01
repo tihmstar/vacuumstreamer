@@ -8,7 +8,7 @@ Tested on: Dreame L10s Ultra.
 ## Build
 
 ```bash
-docker build -t vacuumstramer .
+docker build -t vacuumstreamer .
 ./run.sh make
 ```
 
