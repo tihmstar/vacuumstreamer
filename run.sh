@@ -1,2 +1,2 @@
 #!/bin/bash
-docker run -v $(pwd):/workspace --rm -it vacuumstreamer $@
+docker run -v $(pwd):/workspace:Z --rm -it vacuumstreamer $@
